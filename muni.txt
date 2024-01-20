@@ -2,3 +2,4 @@ Muni Pradhan
 barkote
 Cloud Engineer
 Twenty LPA
+Aws, git,Jenkins
